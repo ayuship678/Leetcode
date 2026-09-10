@@ -69,10 +69,12 @@ LeetCode/
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/ayuship678/Leetcode/tree/master/0089-gray-code) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/ayuship678/Leetcode/tree/master/0089-gray-code) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Bitmask
 |  |
@@ -90,4 +92,8 @@ LeetCode/
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/ayuship678/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
