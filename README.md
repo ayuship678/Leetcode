@@ -59,10 +59,12 @@ LeetCode/
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Backtracking
 |  |
@@ -76,4 +78,16 @@ LeetCode/
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
