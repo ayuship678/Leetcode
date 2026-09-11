@@ -61,6 +61,7 @@ LeetCode/
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ayuship678/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,10 +114,12 @@ LeetCode/
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ayuship678/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ayuship678/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -125,4 +128,8 @@ LeetCode/
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## String Matching
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ayuship678/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
