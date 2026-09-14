@@ -63,6 +63,7 @@ LeetCode/
 | [0164-maximum-gap](https://github.com/ayuship678/Leetcode/tree/master/0164-maximum-gap) |
 | [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0322-coin-change](https://github.com/ayuship678/Leetcode/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ayuship678/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
@@ -172,6 +173,7 @@ LeetCode/
 | ------- |
 | [0164-maximum-gap](https://github.com/ayuship678/Leetcode/tree/master/0164-maximum-gap) |
 | [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 ## Trie
 |  |
@@ -213,4 +215,16 @@ LeetCode/
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ayuship678/Leetcode/tree/master/0164-maximum-gap) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
