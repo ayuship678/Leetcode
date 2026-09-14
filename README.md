@@ -60,6 +60,7 @@ LeetCode/
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0322-coin-change](https://github.com/ayuship678/Leetcode/tree/master/0322-coin-change) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
@@ -168,9 +169,34 @@ LeetCode/
 ## Sorting
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 ## Trie
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
