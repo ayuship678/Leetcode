@@ -63,6 +63,7 @@ LeetCode/
 | [0164-maximum-gap](https://github.com/ayuship678/Leetcode/tree/master/0164-maximum-gap) |
 | [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0228-summary-ranges](https://github.com/ayuship678/Leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/ayuship678/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ayuship678/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
@@ -115,6 +116,7 @@ LeetCode/
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
 | [0460-lfu-cache](https://github.com/ayuship678/Leetcode/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
@@ -181,6 +183,7 @@ LeetCode/
 | ------- |
 | [0164-maximum-gap](https://github.com/ayuship678/Leetcode/tree/master/0164-maximum-gap) |
 | [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 ## Trie
@@ -240,4 +243,12 @@ LeetCode/
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ayuship678/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ayuship678/Leetcode/tree/master/0494-target-sum) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
