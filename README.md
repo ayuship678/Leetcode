@@ -61,6 +61,7 @@ LeetCode/
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayuship678/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/ayuship678/Leetcode/tree/master/0164-maximum-gap) |
 | [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0228-summary-ranges](https://github.com/ayuship678/Leetcode/tree/master/0228-summary-ranges) |
@@ -77,6 +78,7 @@ LeetCode/
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/ayuship678/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ayuship678/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/ayuship678/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -118,6 +120,7 @@ LeetCode/
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
 | [0460-lfu-cache](https://github.com/ayuship678/Leetcode/tree/master/0460-lfu-cache) |
@@ -126,6 +129,7 @@ LeetCode/
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0474-ones-and-zeroes](https://github.com/ayuship678/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
@@ -196,6 +200,7 @@ LeetCode/
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
 ## Divide and Conquer
 |  |
@@ -280,4 +285,12 @@ LeetCode/
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayuship678/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
