@@ -293,4 +293,8 @@ LeetCode/
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/ayuship678/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
