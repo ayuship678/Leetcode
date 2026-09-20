@@ -61,6 +61,7 @@ LeetCode/
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayuship678/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0135-candy](https://github.com/ayuship678/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/ayuship678/Leetcode/tree/master/0164-maximum-gap) |
 | [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
@@ -248,6 +249,7 @@ LeetCode/
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ayuship678/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
