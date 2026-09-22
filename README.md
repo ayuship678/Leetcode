@@ -125,6 +125,7 @@ LeetCode/
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/ayuship678/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0460-lfu-cache](https://github.com/ayuship678/Leetcode/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
@@ -134,6 +135,7 @@ LeetCode/
 | [0093-restore-ip-addresses](https://github.com/ayuship678/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0299-bulls-and-cows](https://github.com/ayuship678/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0474-ones-and-zeroes](https://github.com/ayuship678/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
 ## Sliding Window
@@ -265,6 +267,7 @@ LeetCode/
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/ayuship678/Leetcode/tree/master/0299-bulls-and-cows) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
