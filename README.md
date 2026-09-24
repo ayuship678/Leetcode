@@ -86,6 +86,7 @@ LeetCode/
 | [0474-ones-and-zeroes](https://github.com/ayuship678/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ayuship678/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [1092-shortest-common-supersequence](https://github.com/ayuship678/Leetcode/tree/master/1092-shortest-common-supersequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -140,6 +141,7 @@ LeetCode/
 | [0299-bulls-and-cows](https://github.com/ayuship678/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0474-ones-and-zeroes](https://github.com/ayuship678/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
+| [1092-shortest-common-supersequence](https://github.com/ayuship678/Leetcode/tree/master/1092-shortest-common-supersequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -318,4 +320,8 @@ LeetCode/
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayuship678/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/ayuship678/Leetcode/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
