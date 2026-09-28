@@ -121,6 +121,7 @@ LeetCode/
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ayuship678/Leetcode/tree/master/0089-gray-code) |
+| [0415-add-strings](https://github.com/ayuship678/Leetcode/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ LeetCode/
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/ayuship678/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0415-add-strings](https://github.com/ayuship678/Leetcode/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/ayuship678/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
 | [1092-shortest-common-supersequence](https://github.com/ayuship678/Leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -327,4 +329,8 @@ LeetCode/
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/ayuship678/Leetcode/tree/master/1092-shortest-common-supersequence) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/ayuship678/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
