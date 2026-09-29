@@ -109,6 +109,7 @@ LeetCode/
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/ayuship678/Leetcode/tree/master/0155-min-stack) |
 ## Matrix
 |  |
 | ------- |
@@ -195,6 +196,7 @@ LeetCode/
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ayuship678/Leetcode/tree/master/0155-min-stack) |
 | [0460-lfu-cache](https://github.com/ayuship678/Leetcode/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
 ## Doubly-Linked List
