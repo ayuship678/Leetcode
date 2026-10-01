@@ -70,6 +70,7 @@ LeetCode/
 | [0300-longest-increasing-subsequence](https://github.com/ayuship678/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayuship678/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ayuship678/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0413-arithmetic-slices](https://github.com/ayuship678/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ayuship678/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/ayuship678/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -84,6 +85,7 @@ LeetCode/
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/ayuship678/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayuship678/Leetcode/tree/master/0322-coin-change) |
+| [0413-arithmetic-slices](https://github.com/ayuship678/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ayuship678/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/ayuship678/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ayuship678/Leetcode/tree/master/0494-target-sum) |
@@ -151,6 +153,7 @@ LeetCode/
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0413-arithmetic-slices](https://github.com/ayuship678/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Rolling Hash
 |  |
 | ------- |
