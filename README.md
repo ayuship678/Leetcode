@@ -81,6 +81,7 @@ LeetCode/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/ayuship678/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -94,6 +95,7 @@ LeetCode/
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/ayuship678/Leetcode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/ayuship678/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/ayuship678/Leetcode/tree/master/0494-target-sum) |
@@ -141,6 +143,7 @@ LeetCode/
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/ayuship678/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -345,4 +348,8 @@ LeetCode/
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ayuship678/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
