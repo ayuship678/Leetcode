@@ -332,6 +332,7 @@ LeetCode/
 | [0607-sales-person](https://github.com/ayuship678/Leetcode/tree/master/0607-sales-person) |
 | [1068-product-sales-analysis-i](https://github.com/ayuship678/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/ayuship678/Leetcode/tree/master/1075-project-employees-i) |
+| [1321-restaurant-growth](https://github.com/ayuship678/Leetcode/tree/master/1321-restaurant-growth) |
 ## Quickselect
 |  |
 | ------- |
