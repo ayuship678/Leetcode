@@ -77,6 +77,7 @@ LeetCode/
 | [0494-target-sum](https://github.com/ayuship678/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ayuship678/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Dynamic Programming
 |  |
@@ -92,6 +93,7 @@ LeetCode/
 | [0494-target-sum](https://github.com/ayuship678/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1092-shortest-common-supersequence](https://github.com/ayuship678/Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,6 +109,7 @@ LeetCode/
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Bitmask
 |  |
 | ------- |
@@ -301,10 +304,12 @@ LeetCode/
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayuship678/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayuship678/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ayuship678/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ayuship678/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -321,6 +326,7 @@ LeetCode/
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -353,4 +359,8 @@ LeetCode/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
+## DP on Trees
+|  |
+| ------- |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 <!---LeetCode Topics End-->
