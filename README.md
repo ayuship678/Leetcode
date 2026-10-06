@@ -144,6 +144,7 @@ LeetCode/
 | [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/ayuship678/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ayuship678/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0433-minimum-genetic-mutation](https://github.com/ayuship678/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0460-lfu-cache](https://github.com/ayuship678/Leetcode/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
@@ -157,6 +158,7 @@ LeetCode/
 | [0299-bulls-and-cows](https://github.com/ayuship678/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0385-mini-parser](https://github.com/ayuship678/Leetcode/tree/master/0385-mini-parser) |
 | [0415-add-strings](https://github.com/ayuship678/Leetcode/tree/master/0415-add-strings) |
+| [0433-minimum-genetic-mutation](https://github.com/ayuship678/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0474-ones-and-zeroes](https://github.com/ayuship678/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayuship678/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -195,6 +197,7 @@ LeetCode/
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayuship678/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/ayuship678/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/ayuship678/Leetcode/tree/master/0322-coin-change) |
+| [0433-minimum-genetic-mutation](https://github.com/ayuship678/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -374,4 +377,8 @@ LeetCode/
 |  |
 | ------- |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/ayuship678/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
