@@ -123,6 +123,7 @@ LeetCode/
 | [0155-min-stack](https://github.com/ayuship678/Leetcode/tree/master/0155-min-stack) |
 | [0385-mini-parser](https://github.com/ayuship678/Leetcode/tree/master/0385-mini-parser) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayuship678/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ayuship678/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -162,6 +163,7 @@ LeetCode/
 | [0474-ones-and-zeroes](https://github.com/ayuship678/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayuship678/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ayuship678/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/ayuship678/Leetcode/tree/master/1092-shortest-common-supersequence) |
 ## Sliding Window
 |  |
@@ -373,6 +375,7 @@ LeetCode/
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayuship678/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ayuship678/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## DP on Trees
 |  |
 | ------- |
