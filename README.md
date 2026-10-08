@@ -91,6 +91,7 @@ LeetCode/
 | [0322-coin-change](https://github.com/ayuship678/Leetcode/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/ayuship678/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ayuship678/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0458-poor-pigs](https://github.com/ayuship678/Leetcode/tree/master/0458-poor-pigs) |
 | [0474-ones-and-zeroes](https://github.com/ayuship678/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ayuship678/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -137,6 +138,7 @@ LeetCode/
 | ------- |
 | [0089-gray-code](https://github.com/ayuship678/Leetcode/tree/master/0089-gray-code) |
 | [0415-add-strings](https://github.com/ayuship678/Leetcode/tree/master/0415-add-strings) |
+| [0458-poor-pigs](https://github.com/ayuship678/Leetcode/tree/master/0458-poor-pigs) |
 ## Hash Table
 |  |
 | ------- |
@@ -384,4 +386,8 @@ LeetCode/
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/ayuship678/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/ayuship678/Leetcode/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
