@@ -125,6 +125,7 @@ LeetCode/
 | [0385-mini-parser](https://github.com/ayuship678/Leetcode/tree/master/0385-mini-parser) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayuship678/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayuship678/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayuship678/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Matrix
 |  |
 | ------- |
@@ -167,6 +168,7 @@ LeetCode/
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayuship678/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayuship678/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/ayuship678/Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayuship678/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -292,6 +294,7 @@ LeetCode/
 | [0135-candy](https://github.com/ayuship678/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayuship678/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayuship678/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -378,6 +381,7 @@ LeetCode/
 | [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayuship678/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayuship678/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayuship678/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## DP on Trees
 |  |
 | ------- |
