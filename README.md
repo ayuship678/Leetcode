@@ -122,6 +122,7 @@ LeetCode/
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/ayuship678/Leetcode/tree/master/0155-min-stack) |
@@ -158,6 +159,7 @@ LeetCode/
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/ayuship678/Leetcode/tree/master/0093-restore-ip-addresses) |
@@ -387,6 +389,7 @@ LeetCode/
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayuship678/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
