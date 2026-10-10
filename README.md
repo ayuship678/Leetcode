@@ -85,6 +85,7 @@ LeetCode/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayuship678/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
@@ -121,6 +122,7 @@ LeetCode/
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/ayuship678/Leetcode/tree/master/0155-min-stack) |
 | [0385-mini-parser](https://github.com/ayuship678/Leetcode/tree/master/0385-mini-parser) |
@@ -157,6 +159,7 @@ LeetCode/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/ayuship678/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -385,6 +388,7 @@ LeetCode/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayuship678/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayuship678/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayuship678/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
