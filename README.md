@@ -81,6 +81,7 @@ LeetCode/
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayuship678/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayuship678/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayuship678/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ayuship678/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Dynamic Programming
@@ -116,6 +117,7 @@ LeetCode/
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayuship678/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Bitmask
 |  |
@@ -159,6 +161,7 @@ LeetCode/
 | [0460-lfu-cache](https://github.com/ayuship678/Leetcode/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayuship678/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -309,6 +312,7 @@ LeetCode/
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayuship678/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayuship678/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayuship678/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayuship678/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
