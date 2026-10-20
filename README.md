@@ -93,6 +93,7 @@ LeetCode/
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ayuship678/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayuship678/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayuship678/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/ayuship678/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +162,7 @@ LeetCode/
 | [0415-add-strings](https://github.com/ayuship678/Leetcode/tree/master/0415-add-strings) |
 | [0458-poor-pigs](https://github.com/ayuship678/Leetcode/tree/master/0458-poor-pigs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3886-sum-of-sortable-integers](https://github.com/ayuship678/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +274,7 @@ LeetCode/
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayuship678/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayuship678/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayuship678/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/ayuship678/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Trie
 |  |
 | ------- |
@@ -458,6 +461,7 @@ LeetCode/
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayuship678/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/ayuship678/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Union-Find
 |  |
 | ------- |
