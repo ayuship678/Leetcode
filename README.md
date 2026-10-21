@@ -121,6 +121,7 @@ LeetCode/
 | [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/ayuship678/Leetcode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/ayuship678/Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/ayuship678/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ayuship678/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
@@ -189,6 +190,7 @@ LeetCode/
 | [0093-restore-ip-addresses](https://github.com/ayuship678/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0257-binary-tree-paths](https://github.com/ayuship678/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/ayuship678/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0385-mini-parser](https://github.com/ayuship678/Leetcode/tree/master/0385-mini-parser) |
 | [0415-add-strings](https://github.com/ayuship678/Leetcode/tree/master/0415-add-strings) |
@@ -370,12 +372,14 @@ LeetCode/
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayuship678/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayuship678/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ayuship678/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/ayuship678/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ayuship678/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/ayuship678/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0385-mini-parser](https://github.com/ayuship678/Leetcode/tree/master/0385-mini-parser) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Binary Tree
@@ -385,6 +389,7 @@ LeetCode/
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayuship678/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayuship678/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ayuship678/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/ayuship678/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
