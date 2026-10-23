@@ -69,6 +69,7 @@ LeetCode/
 | [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0228-summary-ranges](https://github.com/ayuship678/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/ayuship678/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/ayuship678/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayuship678/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ayuship678/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -271,6 +272,7 @@ LeetCode/
 | [0164-maximum-gap](https://github.com/ayuship678/Leetcode/tree/master/0164-maximum-gap) |
 | [0218-the-skyline-problem](https://github.com/ayuship678/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/ayuship678/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/ayuship678/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayuship678/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ayuship678/Leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -479,4 +481,8 @@ LeetCode/
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ayuship678/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
