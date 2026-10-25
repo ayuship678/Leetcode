@@ -82,6 +82,7 @@ LeetCode/
 | [0494-target-sum](https://github.com/ayuship678/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
+| [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayuship678/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayuship678/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -156,6 +157,7 @@ LeetCode/
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -243,6 +245,7 @@ LeetCode/
 | [0199-binary-tree-right-side-view](https://github.com/ayuship678/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/ayuship678/Leetcode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/ayuship678/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -388,6 +391,7 @@ LeetCode/
 | [0199-binary-tree-right-side-view](https://github.com/ayuship678/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/ayuship678/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0385-mini-parser](https://github.com/ayuship678/Leetcode/tree/master/0385-mini-parser) |
+| [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Binary Tree
 |  |
@@ -478,6 +482,7 @@ LeetCode/
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
