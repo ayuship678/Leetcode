@@ -175,6 +175,7 @@ LeetCode/
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayuship678/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/ayuship678/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -260,6 +261,7 @@ LeetCode/
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayuship678/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/ayuship678/Leetcode/tree/master/0460-lfu-cache) |
 ## Design
 |  |
@@ -342,6 +344,7 @@ LeetCode/
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayuship678/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayuship678/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
