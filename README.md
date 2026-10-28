@@ -127,6 +127,7 @@ LeetCode/
 | [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/ayuship678/Leetcode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/ayuship678/Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0126-word-ladder-ii](https://github.com/ayuship678/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/ayuship678/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ayuship678/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -178,6 +179,7 @@ LeetCode/
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/ayuship678/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayuship678/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -200,6 +202,7 @@ LeetCode/
 | [0022-generate-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayuship678/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/ayuship678/Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0126-word-ladder-ii](https://github.com/ayuship678/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/ayuship678/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -247,6 +250,7 @@ LeetCode/
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayuship678/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayuship678/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0126-word-ladder-ii](https://github.com/ayuship678/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/ayuship678/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/ayuship678/Leetcode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/ayuship678/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -475,6 +479,7 @@ LeetCode/
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/ayuship678/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/ayuship678/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Combinatorics
 |  |
