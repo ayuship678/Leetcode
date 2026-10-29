@@ -80,6 +80,7 @@ LeetCode/
 | [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/ayuship678/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ayuship678/Leetcode/tree/master/0494-target-sum) |
+| [0525-contiguous-array](https://github.com/ayuship678/Leetcode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 | [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -191,6 +192,7 @@ LeetCode/
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayuship678/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/ayuship678/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0460-lfu-cache](https://github.com/ayuship678/Leetcode/tree/master/0460-lfu-cache) |
+| [0525-contiguous-array](https://github.com/ayuship678/Leetcode/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayuship678/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -512,4 +514,8 @@ LeetCode/
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ayuship678/Leetcode/tree/master/0274-h-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/ayuship678/Leetcode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
