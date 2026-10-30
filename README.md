@@ -275,6 +275,7 @@ LeetCode/
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/ayuship678/Leetcode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayuship678/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/ayuship678/Leetcode/tree/master/0460-lfu-cache) |
 ## Design
@@ -362,6 +363,7 @@ LeetCode/
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/ayuship678/Leetcode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayuship678/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayuship678/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
