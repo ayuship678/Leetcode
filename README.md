@@ -96,6 +96,7 @@ LeetCode/
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/ayuship678/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayuship678/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ayuship678/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/ayuship678/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayuship678/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ayuship678/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ayuship678/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -122,6 +123,7 @@ LeetCode/
 | [1092-shortest-common-supersequence](https://github.com/ayuship678/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3665-twisted-mirror-path-count](https://github.com/ayuship678/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ayuship678/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -165,6 +167,7 @@ LeetCode/
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/ayuship678/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ayuship678/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
 |  |
