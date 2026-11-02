@@ -89,6 +89,7 @@ LeetCode/
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayuship678/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayuship678/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayuship678/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2574-left-and-right-sum-differences](https://github.com/ayuship678/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayuship678/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayuship678/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayuship678/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -528,6 +529,7 @@ LeetCode/
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/ayuship678/Leetcode/tree/master/0525-contiguous-array) |
+| [2574-left-and-right-sum-differences](https://github.com/ayuship678/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Graph Theory
 |  |
 | ------- |
