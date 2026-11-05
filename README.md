@@ -85,6 +85,7 @@ LeetCode/
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 | [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayuship678/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayuship678/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayuship678/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -316,6 +317,7 @@ LeetCode/
 | [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayuship678/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayuship678/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayuship678/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayuship678/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayuship678/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -385,6 +387,7 @@ LeetCode/
 | [0160-intersection-of-two-linked-lists](https://github.com/ayuship678/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayuship678/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ayuship678/Leetcode/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayuship678/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -452,6 +455,7 @@ LeetCode/
 | [0300-longest-increasing-subsequence](https://github.com/ayuship678/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayuship678/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ayuship678/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayuship678/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayuship678/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayuship678/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
