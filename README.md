@@ -71,6 +71,7 @@ LeetCode/
 | [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/ayuship678/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/ayuship678/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ayuship678/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/ayuship678/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ayuship678/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayuship678/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -174,6 +175,7 @@ LeetCode/
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ayuship678/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3665-twisted-mirror-path-count](https://github.com/ayuship678/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ayuship678/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -298,6 +300,7 @@ LeetCode/
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ayuship678/Leetcode/tree/master/0155-min-stack) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ayuship678/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0460-lfu-cache](https://github.com/ayuship678/Leetcode/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
 ## Doubly-Linked List
@@ -544,6 +547,7 @@ LeetCode/
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/ayuship678/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/ayuship678/Leetcode/tree/master/0525-contiguous-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ayuship678/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Graph Theory
