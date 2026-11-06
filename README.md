@@ -482,6 +482,7 @@ LeetCode/
 | [0596-classes-with-at-least-5-students](https://github.com/ayuship678/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/ayuship678/Leetcode/tree/master/0601-human-traffic-of-stadium) |
 | [0607-sales-person](https://github.com/ayuship678/Leetcode/tree/master/0607-sales-person) |
+| [1045-customers-who-bought-all-products](https://github.com/ayuship678/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ayuship678/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/ayuship678/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/ayuship678/Leetcode/tree/master/1070-product-sales-analysis-iii) |
