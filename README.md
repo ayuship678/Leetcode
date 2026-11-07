@@ -491,6 +491,7 @@ LeetCode/
 | [1075-project-employees-i](https://github.com/ayuship678/Leetcode/tree/master/1075-project-employees-i) |
 | [1158-market-analysis-i](https://github.com/ayuship678/Leetcode/tree/master/1158-market-analysis-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ayuship678/Leetcode/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/ayuship678/Leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ayuship678/Leetcode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/ayuship678/Leetcode/tree/master/1321-restaurant-growth) |
 ## Quickselect
