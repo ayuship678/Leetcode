@@ -86,6 +86,7 @@ LeetCode/
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 | [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayuship678/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayuship678/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayuship678/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -179,6 +180,7 @@ LeetCode/
 | [0085-maximal-rectangle](https://github.com/ayuship678/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayuship678/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayuship678/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/ayuship678/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ayuship678/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
@@ -283,6 +285,7 @@ LeetCode/
 | [0322-coin-change](https://github.com/ayuship678/Leetcode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/ayuship678/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayuship678/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -424,6 +427,7 @@ LeetCode/
 | [0229-majority-element-ii](https://github.com/ayuship678/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/ayuship678/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ayuship678/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/ayuship678/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -446,6 +450,7 @@ LeetCode/
 | [0257-binary-tree-paths](https://github.com/ayuship678/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0385-mini-parser](https://github.com/ayuship678/Leetcode/tree/master/0385-mini-parser) |
 | [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayuship678/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ayuship678/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -543,6 +548,7 @@ LeetCode/
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayuship678/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
