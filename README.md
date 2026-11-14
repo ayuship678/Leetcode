@@ -520,6 +520,7 @@ LeetCode/
 | [1251-average-selling-price](https://github.com/ayuship678/Leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ayuship678/Leetcode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/ayuship678/Leetcode/tree/master/1321-restaurant-growth) |
+| [1407-top-travellers](https://github.com/ayuship678/Leetcode/tree/master/1407-top-travellers) |
 ## Quickselect
 |  |
 | ------- |
