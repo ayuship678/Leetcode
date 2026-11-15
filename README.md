@@ -93,6 +93,7 @@ LeetCode/
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayuship678/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ayuship678/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1732-find-the-highest-altitude](https://github.com/ayuship678/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayuship678/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1882-process-tasks-using-servers](https://github.com/ayuship678/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayuship678/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -590,6 +591,7 @@ LeetCode/
 | [0304-range-sum-query-2d-immutable](https://github.com/ayuship678/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/ayuship678/Leetcode/tree/master/0525-contiguous-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayuship678/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/ayuship678/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/ayuship678/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayuship678/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Graph Theory
