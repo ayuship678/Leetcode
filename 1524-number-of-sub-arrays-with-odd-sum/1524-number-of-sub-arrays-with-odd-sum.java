@@ -1,27 +1,22 @@
 class Solution {
-
     public int numOfSubarrays(int[] arr) {
-        final int MOD = 1_000_000_007;
-        int count = 0, prefixSum = 0;
-        // evenCount starts as one since the initial sum (0) is even
-        int oddCount = 0, evenCount = 1;
+        int n = arr.length;
+        int cntEv = 0;
+        int cntOdd = 0;
+        int pre = 0; int mod = (int)1e9 + 7;
+        int ans = 0;
+        for(int i = 0; i < n;i++){
+            pre += arr[i];
 
-        for (int num : arr) {
-            prefixSum += num;
-            // If current prefix sum is even, add the number of odd subarrays
-            if (prefixSum % 2 == 0) {
-                count += oddCount;
-                evenCount++;
-            } else {
-                // If current prefix sum is odd, add the number of even
-                // subarrays
-                count += evenCount;
-                oddCount++;
+            if((pre&1) == 0){ //so we need to remove subarrays(0...i) having sum as odd to make the resulting subarray odd
+                ans = (ans + cntOdd) % mod;
+                cntEv++;
+            }else{
+                ans = (ans + cntEv) % mod;
+                ans++;
+                cntOdd++;
             }
-
-            count %= MOD; // To handle large results
         }
-
-        return count;
+        return ans;
     }
 }
