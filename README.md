@@ -89,6 +89,7 @@ LeetCode/
 | [1267-count-servers-that-communicate](https://github.com/ayuship678/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayuship678/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/ayuship678/Leetcode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayuship678/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayuship678/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ayuship678/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -139,6 +140,7 @@ LeetCode/
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1092-shortest-common-supersequence](https://github.com/ayuship678/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/ayuship678/Leetcode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayuship678/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayuship678/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -205,6 +207,7 @@ LeetCode/
 | [0415-add-strings](https://github.com/ayuship678/Leetcode/tree/master/0415-add-strings) |
 | [0458-poor-pigs](https://github.com/ayuship678/Leetcode/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayuship678/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayuship678/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ayuship678/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayuship678/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -586,6 +589,7 @@ LeetCode/
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayuship678/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/ayuship678/Leetcode/tree/master/0525-contiguous-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayuship678/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/ayuship678/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayuship678/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Graph Theory
