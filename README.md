@@ -64,6 +64,7 @@ LeetCode/
 | [0119-pascals-triangle-ii](https://github.com/ayuship678/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayuship678/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayuship678/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/ayuship678/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/ayuship678/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/ayuship678/Leetcode/tree/master/0164-maximum-gap) |
@@ -224,6 +225,7 @@ LeetCode/
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/ayuship678/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/ayuship678/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ayuship678/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayuship678/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/ayuship678/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -584,6 +586,7 @@ LeetCode/
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayuship678/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ayuship678/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
