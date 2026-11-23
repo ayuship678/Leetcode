@@ -89,6 +89,7 @@ LeetCode/
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 | [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ayuship678/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayuship678/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayuship678/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/ayuship678/Leetcode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayuship678/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -217,6 +218,7 @@ LeetCode/
 | [0415-add-strings](https://github.com/ayuship678/Leetcode/tree/master/0415-add-strings) |
 | [0458-poor-pigs](https://github.com/ayuship678/Leetcode/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayuship678/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayuship678/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayuship678/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1840-maximum-building-height](https://github.com/ayuship678/Leetcode/tree/master/1840-maximum-building-height) |
@@ -348,6 +350,7 @@ LeetCode/
 | [0304-range-sum-query-2d-immutable](https://github.com/ayuship678/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0460-lfu-cache](https://github.com/ayuship678/Leetcode/tree/master/0460-lfu-cache) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayuship678/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -617,6 +620,7 @@ LeetCode/
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayuship678/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/ayuship678/Leetcode/tree/master/0525-contiguous-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayuship678/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayuship678/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/ayuship678/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/ayuship678/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -637,4 +641,8 @@ LeetCode/
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayuship678/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayuship678/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
