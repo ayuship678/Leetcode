@@ -115,6 +115,7 @@ LeetCode/
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayuship678/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayuship678/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayuship678/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayuship678/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayuship678/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayuship678/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayuship678/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -223,6 +224,7 @@ LeetCode/
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1840-maximum-building-height](https://github.com/ayuship678/Leetcode/tree/master/1840-maximum-building-height) |
 | [2409-count-days-spent-together](https://github.com/ayuship678/Leetcode/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayuship678/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayuship678/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayuship678/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ayuship678/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -289,6 +291,7 @@ LeetCode/
 | [0413-arithmetic-slices](https://github.com/ayuship678/Leetcode/tree/master/0413-arithmetic-slices) |
 | [2747-count-zero-request-servers](https://github.com/ayuship678/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayuship678/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayuship678/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ayuship678/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayuship678/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Rolling Hash
@@ -599,6 +602,7 @@ LeetCode/
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayuship678/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayuship678/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/ayuship678/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Union-Find
 |  |
@@ -645,4 +649,8 @@ LeetCode/
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ayuship678/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayuship678/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
