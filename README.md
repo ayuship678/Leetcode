@@ -219,6 +219,7 @@ LeetCode/
 | [0415-add-strings](https://github.com/ayuship678/Leetcode/tree/master/0415-add-strings) |
 | [0458-poor-pigs](https://github.com/ayuship678/Leetcode/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayuship678/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/ayuship678/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ayuship678/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayuship678/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -524,6 +525,7 @@ LeetCode/
 | [0300-longest-increasing-subsequence](https://github.com/ayuship678/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayuship678/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ayuship678/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/ayuship678/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayuship678/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ayuship678/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayuship678/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
