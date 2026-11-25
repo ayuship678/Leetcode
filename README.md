@@ -87,6 +87,7 @@ LeetCode/
 | [0525-contiguous-array](https://github.com/ayuship678/Leetcode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/ayuship678/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
+| [0997-find-the-town-judge](https://github.com/ayuship678/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1254-number-of-closed-islands](https://github.com/ayuship678/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ayuship678/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ayuship678/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -248,6 +249,7 @@ LeetCode/
 | [0525-contiguous-array](https://github.com/ayuship678/Leetcode/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
+| [0997-find-the-town-judge](https://github.com/ayuship678/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2747-count-zero-request-servers](https://github.com/ayuship678/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayuship678/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayuship678/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -639,6 +641,7 @@ LeetCode/
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/ayuship678/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ayuship678/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ayuship678/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
