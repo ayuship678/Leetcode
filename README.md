@@ -92,6 +92,7 @@ LeetCode/
 | [1267-count-servers-that-communicate](https://github.com/ayuship678/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ayuship678/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayuship678/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1436-destination-city](https://github.com/ayuship678/Leetcode/tree/master/1436-destination-city) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/ayuship678/Leetcode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayuship678/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayuship678/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -250,6 +251,7 @@ LeetCode/
 | [0645-set-mismatch](https://github.com/ayuship678/Leetcode/tree/master/0645-set-mismatch) |
 | [0677-map-sum-pairs](https://github.com/ayuship678/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0997-find-the-town-judge](https://github.com/ayuship678/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1436-destination-city](https://github.com/ayuship678/Leetcode/tree/master/1436-destination-city) |
 | [2747-count-zero-request-servers](https://github.com/ayuship678/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ayuship678/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayuship678/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -279,6 +281,7 @@ LeetCode/
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayuship678/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayuship678/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/ayuship678/Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1436-destination-city](https://github.com/ayuship678/Leetcode/tree/master/1436-destination-city) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayuship678/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ayuship678/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayuship678/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
