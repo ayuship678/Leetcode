@@ -645,6 +645,7 @@ LeetCode/
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/ayuship678/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/ayuship678/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ayuship678/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
@@ -671,4 +672,8 @@ LeetCode/
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/ayuship678/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayuship678/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
